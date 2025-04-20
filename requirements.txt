@@ -42,4 +42,4 @@ tornado==6.4.2
 typing_extensions==4.13.2
 tzdata==2025.2
 urllib3==2.4.0
-pip show opencv-python==4.11.0.86
+opencv-python==4.11.0.86
